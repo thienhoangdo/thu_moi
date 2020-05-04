@@ -1,5 +1,6 @@
 <?php require_once('Connections/Myconnection.php'); ?>
 <?php
+$bienmoi = 1;
 $table = get_param('table');
 $title = get_param('title');
 $ma_nv = get_param('catID');
